@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fadeatalarik@gmail.com**
 
-- ⚡ Fun fact **I like anime,I like walking **
+- ⚡ Fun fact **I like anime and I like walking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

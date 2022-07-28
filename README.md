@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FARHAN ADE ATALARIK</h1>
+![gambar](https://user-images.githubusercontent.com/100106630/181404841-b766adc1-762f-4ef9-a19c-560a924963cb.png)
 <h3 align="center">I am a programmer from Indonesia</h3>
 
 - 🌱 I’m currently learning **python,js,php**

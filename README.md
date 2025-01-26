@@ -1,7 +1,9 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Farhanadeata/count.svg" />
 
-<h1 align="center" style="color: green; font-weight: bold;">Hi, I'm Farhanadeata</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Farhanadeata!;" />
+</h1>
 
 <h3 align="center">Programming 🤖 </h3>
 

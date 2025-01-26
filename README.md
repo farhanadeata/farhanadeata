@@ -1,4 +1,4 @@
-![gambar](https://user-images.githubusercontent.com/100106630/181404841-b766adc1-762f-4ef9-a19c-560a924963cb.png)
+![Banner](https://github.com/farhanadeata/farhanadeata/blob/main/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 <h3 align="center">I am a programmer from Indonesia</h3>
 
 - 🌱 I’m currently learning **python,js,php**

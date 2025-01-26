@@ -1,5 +1,7 @@
+<h1 align="center">Hii, I'm Farhanadeata</h1>
+<h3 align="center">Programming 🤖 </h3>
+
 ![Banner](https://github.com/farhanadeata/farhanadeata/blob/main/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
-<h3 align="center">I am a programmer from Indonesia</h3>
 
 - 🌱 I’m currently learning **python,js,php**
 

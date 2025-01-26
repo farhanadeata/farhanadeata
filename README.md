@@ -1,3 +1,6 @@
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Farhanadeata/count.svg" />
+
 <h1 align="center" style="color: green; font-weight: bold;">Hi, I'm Farhanadeata</h1>
 
 <h3 align="center">Programming 🤖 </h3>
@@ -14,7 +17,12 @@
 ![snake gif](https://github.com/farhanadeata/farhanadeata/blob/output/github-snake-dark.svg)
 
 
+<div align=center>
+  <img width=295 src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanadeata&layout=compact&theme=dracula" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=farhanadeata&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanadeata&layout=compact&theme=dracula" /></p>
+</div>
+
+
 
 
